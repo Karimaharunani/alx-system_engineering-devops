@@ -1,1 +1,1 @@
-My first shell redirections readme
+This project descirbes the basic commands line in Shell Input/Output redirections 
